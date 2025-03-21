@@ -45,7 +45,7 @@ I preferred a model that generalizes well, even if it has a slightly higher vali
 that poorly generalizes but has a very low validation loss.  
 
 ### Model Performance:
-![Alt Text](/Spam-Classification/img.png)
+![Alt Text](output.png)
 
 - Accuracy: 95.605381  
 - F1 Score: 0.854599  
